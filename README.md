@@ -1,5 +1,5 @@
 # Linux
-#----------------------------Linux installation--------------------------------------------#
+#-------------Linux installation---------------------#
 Steps to follow:  (Only one time process)
 
 1.Keep both linux.sh and runthis.sh under in one folder (extract if it is zip file)
@@ -8,4 +8,4 @@ Steps to follow:  (Only one time process)
 2.Restart your computer
 
 
-#------------------------------------------------------------------------------------------#
+#----------------------------------------------------#
